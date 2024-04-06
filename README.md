@@ -1,4 +1,4 @@
-# La Bricole numérique Avrillé
+# La Bricole Numérique Avrillé
 
 L’association « La Bricole Numérique » est un fablab rassemblant des amateurs éclairés de technologie et de bricolage. Elle est ouverte à tous, aux débutants comme aux plus expérimentés. Elle favorise les échanges, le partage de compétences et la réalisation de projets grâce à des outils tels que les imprimantes 3D, découpeuses laser et vinyle, ESP, Arduino et bien d’autres.
 

@@ -13,3 +13,7 @@ La Bricole Numérique est fermée pendant les vacances scolaires.
 
 * [Instagram](https://www.instagram.com/labricolenumerique)
 * [Discord](https://discord.gg/ys2DGTmNnM)
+
+## Projets 
+
+ * [Projets LBN](https://github.com/La-Bricole-numerique-Avrille/Projets_LBN)

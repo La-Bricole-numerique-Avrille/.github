@@ -19,7 +19,7 @@ L’association « La Bricole Numérique » est un fablab rassemblant des amateu
 
  * [Projets LBN](https://github.com/La-Bricole-numerique-Avrille/Projets_LBN)
 
-# Guide de démarrage
+# Guides de démarrage
 
 ## Electronique
 

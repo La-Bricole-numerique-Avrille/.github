@@ -14,6 +14,7 @@ Passer nous voir dans la salle d’arts plastiques au sous-sol du Centre Brassen
 * [Site web](https://labricolenumerique.fr)
 * [Instagram](https://www.instagram.com/labricolenumerique)
 * [Discord](https://discord.gg/ys2DGTmNnM)
+* [Facebook](https://www.facebook.com/people/La-Bricole-Num%C3%A9rique/61555544993280)
 
 ## Projets 
 

@@ -12,6 +12,11 @@
 
   * [Logiciels CAO](CAO.md)
 
+## Gravure & Découpe Laser
+
+* [Gravure Laser](https://github.com/La-Bricole-numerique-Avrille/Laser/)
+* [Découpe Laser](https://github.com/La-Bricole-numerique-Avrille/Laser/)
+  
 ## Impression 3D
 
  * [Impression filament](https://github.com/La-Bricole-numerique-Avrille/Impression-3D?tab=readme-ov-file#impression-filament)
